@@ -1,41 +1,102 @@
-Welcome to OTA Zip Downloader 📥
+# 📥 **OTA ToolBox**  
 
-This repository features OTA Zip Downloader, a batch script-based tool designed to simplify the process of downloading OTA firmware packages for various devices dynamically.
+_A Batch Script Tool for Simplified OTA Firmware Downloads_
+![Modern Black White Brush Motivational Quote Banner](https://github.com/user-attachments/assets/2e4e4048-05f3-43a0-a3df-1c619292dc78)
 
-🚀 Features:
-Dynamic URL Generation: Generate download links by entering your device details (e.g., model, OS version, build number).
-Predefined Package List: Choose OTA packages from a curated list for ease of access.
-Interactive Menu System: User-friendly interface with structured menus for seamless navigation.
-Error Handling: Comprehensive checks to ensure smooth downloads and minimize errors.
-Personalized User Experience: Displays a time-based greeting and a visually appealing terminal interface.
+---
+
+## 🚀 **About OTA ToolBox**  
+
+**OTA ToolBox** is a powerful, script-based tool that automates the process of downloading OTA firmware packages for **Realme, Oppo, and BBK devices**. It allows you to generate dynamic download links, choose from predefined OTA package lists, and enjoy a seamless, user-friendly experience.
+
+---
+
+## 🔥 **Features**  
+
+✅ **Dynamic URL Generation** – Enter your device details, and let the tool fetch the correct firmware link.  
+✅ **Predefined OTA Package List** – Select OTA firmware directly from a curated list for convenience.  
+✅ **Update Checker & Auto-Updater** – Never miss out on the latest improvements!  
+✅ **Interactive Menu System** – Enjoy a structured, easy-to-navigate terminal UI.  
+✅ **Error Handling & Validation** – Smart input checks to prevent errors and failed downloads.  
+✅ **Customization Section** – Personalize the script to your liking!  
+✅ **Personalized Greetings** – Enjoy time-based greetings when you launch the tool.  
+
+---
+
+## 📸 **Screenshots**  
+
+### **Installation Screen**
+![Screenshot 2025-01-30 174242](https://github.com/user-attachments/assets/07be3596-d500-4202-8820-5cf6a2c62fc6)
+
+### **Main Menu Interface**
+![Screenshot 2025-01-30 175104](https://github.com/user-attachments/assets/50db49a1-2a2e-4f49-accb-c0d6745c2a63)
 
 
-💡 How It Works:
-Choose from various options in the Main Menu, such as downloading OTA packages or generating custom links.
-Input device-specific details to dynamically fetch and download firmware packages.
-Select from predefined packages for quick access to common firmware builds.
-Contact maintainers or learn more about the tool through the Help and About sections.
+### **Download Menu Interface**
+ ![Screenshot 2025-01-30 174341](https://github.com/user-attachments/assets/7fa7f2d6-9d34-4861-90af-cd4e874958bc)
 
+> ⚡ **More screenshots coming soon!**  
 
-🛠️ Key Technologies Used:
-Batch scripting (.bat)
-Integration with curl for file downloads
-JSON parsing for extracting URLs
-Dynamic input handling for user-customized outputs
+---
 
+## 💡 **How It Works**  
 
-🎯 Use Cases:
-Ideal for developers and enthusiasts working with firmware updates.
-Simplifies OTA package downloads for BBK devices (e.g., Realme, Oppo, etc.).
-Automates firmware retrieval processes for consistent results.
+1️⃣ Select an option from the **Main Menu** (Download, Help, About).  
+2️⃣ Enter your **Device Codename, OTA Version, and Region** for dynamic URL generation.  
+3️⃣ Alternatively, choose from **Predefined Packages** for a quick download.  
+4️⃣ The tool fetches the **correct OTA firmware link** and downloads it automatically!  
+5️⃣ Enjoy seamless **firmware updates** without manual searching.
+
+---
+
+## 📥 **Installation & Usage**  
+
+🔹 **Step 1:** Download the latest release from the [GitHub Releases](https://github.com/CodeSenseiX/realme-OTA-Zip-Downloader/releases) page.  
+🔹 **Step 2:** Install The Exe
+🔹 **Step 3:** Run `OTA_ToolBox` (Double-click to launch).  
+🔹 **Step 4:** Follow the on-screen instructions to download your OTA package.
+
+> ⚡ **Pro Tip:** Make sure `curl` is installed and added to your system’s PATH.
+
+---
+
+## 🛠️ **Built With**  
+
+- **Batch Scripting (.bat)** – Core functionality.  
+- **`curl` Integration** – For OTA file downloads.  
+- **JSON Parsing** – Extracts firmware URLs dynamically.  
+- **Dynamic Input Handling** – Smart validation for error-free execution.  
+
+---
+
+## 🎯 **Use Cases**  
+
+🔹 **Firmware Enthusiasts** – Quickly fetch and install OTA updates.  
+🔹 **Developers** – Automate OTA package downloads for debugging.  
+🔹 **Advanced Users** – Manage multiple OTA versions for testing.  
+
+---
+![MultiversxXmoneyGIF](https://github.com/user-attachments/assets/3cb9f2de-78e3-49e6-817f-ae51c6bfdf79)
+
+## 📢 **Contribute & Support**  
+
+💡 Have ideas for improvements? Found a bug?  
+🎯 **Contributions are welcome!** Submit a pull request or open an issue.
+
+📞 Need help? Contact us:  
+- **@parth_sancheti** [Telegram](https://t.me/parth_sancheti)  
+- **@CodeSenseiX** [Telegram](https://t.me/CodeSenseiX)  
+
+---
+
+## 📜 **License**  
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+---
+## 📥 **Download**  
+🔗 **[Download Now](https://github.com/Parth-Sancheti-5/OTA_ToolBox/releases/tag/v11) & Experience Hassle-Free OTA Firmware Updates!** 🚀  
+
+---
+
 Feel free to explore, fork, and contribute! Together, we can enhance this tool and make OTA package management even more accessible.
-
-![Screenshot 2025-01-26 042848](https://github.com/user-attachments/assets/b88ffc68-58a2-490b-a09f-2c0c593fbe2b)
-
-![Screenshot 2025-01-26 042835](https://github.com/user-attachments/assets/1bbe9ce4-0eaa-4f1f-aa97-5e0f65091720)
-
-![Screenshot 2025-01-26 042823](https://github.com/user-attachments/assets/daa5d4df-e450-4b37-bb1f-3853e25f0e89)
-
-![Screenshot 2025-01-26 042817](https://github.com/user-attachments/assets/5f596279-de64-4bae-8a65-3bd215038d32)
-
-![Screenshot 2025-01-26 042807](https://github.com/user-attachments/assets/6a65b108-1b6d-44b0-89e1-2dcb3487ca21)
